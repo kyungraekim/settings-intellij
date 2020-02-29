@@ -1,0 +1,18 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="FileChooser.GotoHome" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+</keymap>
