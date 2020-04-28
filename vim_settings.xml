@@ -1,12 +1,170 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>q!</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/main/java/com/kyungrae/study/springbootaws/domain/BaseTimeEntity.java" timestamp="1584278909804">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1584801822710">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/main/resources/templates/layout/footer.mustache" timestamp="1584801522970">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/main/java/com/kyungrae/study/springbootaws/Application.java" timestamp="1584799555646">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/build.gradle" timestamp="1584786718313">
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="17" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/index.mustache" timestamp="1584786902161">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/main/java/com/kyungrae/study/springbootaws/domain/posts/Posts.java" timestamp="1584274938435">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="29" column="11" />
+        <mark key="^" line="29" column="11" />
+        <mark key="." line="29" column="11" />
+      </file>
+      <file name="/" timestamp="1588055382026">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/test/java/com/kyungrae/study/springbootaws/web/IndexControllerTest.java" timestamp="1584787361668">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/main/resources/application.properties" timestamp="1584276491869">
+        <mark key="[" line="1" column="81" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/main/resources/templates/posts-save.mustache" timestamp="1584804695791">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/main/java/com/kyungrae/study/springbootaws/service/posts/PostsService.java" timestamp="1584277044449">
+        <mark key="[" line="28" column="9" />
+        <mark key="]" line="15" column="58" />
+        <mark key="." line="15" column="58" />
+        <mark key="^" line="15" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/main/resources/static/js/app/index.js" timestamp="1584805439439">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="19" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/test/java/com/kyungrae/study/springbootaws/domain/posts/PostsRepositoryTest.java" timestamp="1588055372824">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="41" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/main/resources/templates/layout/header.mustache" timestamp="1584800173754">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/test/java/com/kyungrae/study/springbootaws/web/PostsApiControllerTest.java" timestamp="1584787431441">
+        <mark key="[" line="41" column="33" />
+        <mark key="]" line="41" column="33" />
+        <mark key="." line="41" column="33" />
+        <mark key="^" line="41" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/main/java/com/kyungrae/study/springbootaws/web/IndexController.java" timestamp="1584787190342">
+        <mark key="[" line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/main/java/com/kyungrae/study/springbootaws/web/PostsApiController.java" timestamp="1584276895578">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/main/resources/templates/index.mustache" timestamp="1584800448199">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/coursework/self-study/springboot-aws/build.gradle" />
+      <jump line="15" column="13" filename="$USER_HOME$/workspace/self-study/springboot-aws/src/test/java/com/kyungrae/study/springbootaws/domain/posts/PostsRepositoryTest.java" />
+      <jump line="234" column="22" filename="$USER_HOME$/workspace/etc/sls_java_es_dev_git_clone/sls_service/src/main/java/com/samsung/jio_toy/main/Algorithm.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>The article is saved');</text>
+      </register>
+      <register name="-" type="4">
+        <text>The article is saved');</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZmlyc3QiIHZhbHVlPSIke3Byb3BoZXQuZmlyc3R9Ii8+Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text>Index page with mustache with test case</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC8KbGlicy9wb3BwZXIuanMvMS4xNC4zL3VtZC9wb3BwZXIubWluLmpzIj48L3NjcmlwdD4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PC9ib2R5Pgo8L2h0bWw+</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PCFET0NUWVBFIEhUTUw+CjxodG1sIGxhbmc9ImtyIj4KPGhlYWQ+CiAgICA8dGl0bGU+7Iqk7ZSE66eBIOu2gO2KuCDsm7nshJzruYTsiqQ8L3RpdGxlPgogICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTgiLz4KPC9oZWFkPgo8Ym9keT4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PC9odG1sPg==</text>
+      </register>
+      <register name="6" type="2">
+        <text>Record local time by JPA auditing</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">VXBkYXRlIGxvY2FsIHRpbWUg</text>
+      </register>
+      <register name="8" type="2">
+        <text>Set H2 Console option</text>
+      </register>
+      <register name="9" type="2">
+        <text>Added save request with a test cas</text>
+      </register>
+      <register name=":" type="4">
+        <text>q!</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
