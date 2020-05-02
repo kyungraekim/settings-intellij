@@ -4,7 +4,9 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
+      <history-search>
+        <entry>processTTI</entry>
+      </history-search>
       <history-cmd>
         <entry>q!</entry>
       </history-cmd>
@@ -47,11 +49,11 @@
       <file name="$USER_HOME$/workspace/self-study/springboot-aws/index.mustache" timestamp="1584786902161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/etc/sls_java_es_dev_git_clone/sls_service/src/main/java/com/samsung/jio_toy/environment/ESParameters.java" timestamp="1588411565385">
-        <mark key="[" line="77" column="56" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="78" column="13" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/workspace/etc/sls_java_es_dev_git_clone/sls_service/src/main/java/com/samsung/jio_toy/environment/ESParameters.java" timestamp="1588411617414">
+        <mark key="[" line="78" column="12" />
+        <mark key="]" line="78" column="12" />
+        <mark key="^" line="78" column="12" />
+        <mark key="." line="78" column="12" />
       </file>
       <file name="/" timestamp="1588055382026">
         <mark key="[" line="0" column="0" />
@@ -59,11 +61,12 @@
       <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/test/java/com/kyungrae/study/springbootaws/web/IndexControllerTest.java" timestamp="1584787361668">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/etc/sls_java_es_dev_git_clone/sls_service/src/main/java/com/samsung/jio_toy/main/Algorithm.java" timestamp="1588060635858">
+      <file name="$USER_HOME$/workspace/etc/sls_java_es_dev_git_clone/sls_service/src/main/java/com/samsung/jio_toy/main/Algorithm.java" timestamp="1588412146644">
+        <mark key="'" line="223" column="0" />
         <mark key="[" line="233" column="51" />
-        <mark key="]" line="239" column="24" />
-        <mark key="." line="239" column="23" />
-        <mark key="^" line="239" column="24" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
+        <mark key="^" line="223" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/self-study/springboot-aws/src/main/resources/templates/posts-save.mustache" timestamp="1584804695791">
         <mark key="[" line="0" column="0" />
@@ -112,15 +115,19 @@
       <jump line="26" column="0" filename="$USER_HOME$/workspace/coursework/self-study/springboot-aws/build.gradle" />
       <jump line="15" column="13" filename="$USER_HOME$/workspace/self-study/springboot-aws/src/test/java/com/kyungrae/study/springbootaws/domain/posts/PostsRepositoryTest.java" />
       <jump line="234" column="22" filename="$USER_HOME$/workspace/etc/sls_java_es_dev_git_clone/sls_service/src/main/java/com/samsung/jio_toy/main/Algorithm.java" />
+      <jump line="223" column="0" filename="$USER_HOME$/workspace/etc/sls_java_es_dev_git_clone/sls_service/src/main/java/com/samsung/jio_toy/main/Algorithm.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0T2ZmV2FpdGluZyhjYXJyaWVySW5kZXgsIGNlbGxJbmRleCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>setOffWaiting(carrierIndex, cellIndex);</text>
       </register>
       <register name="-" type="4">
-        <text>The article is saved');</text>
+        <text>setOffWaiting(carrierIndex, cellIndex);</text>
+      </register>
+      <register name="/" type="4">
+        <text>processTTI</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZmlyc3QiIHZhbHVlPSIke3Byb3BoZXQuZmlyc3R9Ii8+Cg==</text>
@@ -159,7 +166,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>processTTI</last-search>
+      <last-offset />
+      <last-pattern>processTTI</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
