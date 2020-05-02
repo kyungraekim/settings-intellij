@@ -47,11 +47,11 @@
       <file name="$USER_HOME$/workspace/self-study/springboot-aws/index.mustache" timestamp="1584786902161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/etc/sls_java_es_dev_git_clone/sls_service/src/main/java/com/samsung/jio_toy/environment/ESParameters.java" timestamp="1588100258088">
-        <mark key="[" line="78" column="1" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="74" column="30" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/workspace/etc/sls_java_es_dev_git_clone/sls_service/src/main/java/com/samsung/jio_toy/environment/ESParameters.java" timestamp="1588411565385">
+        <mark key="[" line="77" column="56" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="78" column="13" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="/" timestamp="1588055382026">
         <mark key="[" line="0" column="0" />
@@ -117,7 +117,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXNTdGF0ZXNbY2FycmllckluZGV4XVtjZWxsSW5kZXhdLnR1cm5PbiA9PSB0dXJuT24pIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0T2ZmV2FpdGluZyhjYXJyaWVySW5kZXgsIGNlbGxJbmRleCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>The article is saved');</text>
@@ -126,31 +126,31 @@
         <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZmlyc3QiIHZhbHVlPSIke3Byb3BoZXQuZmlyc3R9Ii8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXNTdGF0ZXNbY2FycmllckluZGV4XVtjZWxsSW5kZXhdLnR1cm5PbiA9PSB0dXJuT24pIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0T2ZmV2FpdGluZyhjYXJyaWVySW5kZXgsIGNlbGxJbmRleCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXNTdGF0ZXNbY2FycmllckluZGV4XVtjZWxsSW5kZXhdLnR1cm5PbiA9PSB0dXJuT24pIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHVybk9uKSB7CiAgICAgICAgICAgIGVzUGFyYW1ldGVycy4KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgRXhjZXB0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text>Index page with mustache with test case</text>
+        <text encoding="base64">ICAgICAgICBpZiAodHVybk9uKSB7CiAgICAgICAgICAgIGVzUGFyYW1ldGVycy4KICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC8KbGlicy9wb3BwZXIuanMvMS4xNC4zL3VtZC9wb3BwZXIubWluLmpzIj48L3NjcmlwdD4K</text>
+        <text>Index page with mustache with test case</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9ib2R5Pgo8L2h0bWw+</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC8KbGlicy9wb3BwZXIuanMvMS4xNC4zL3VtZC9wb3BwZXIubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCFET0NUWVBFIEhUTUw+CjxodG1sIGxhbmc9ImtyIj4KPGhlYWQ+CiAgICA8dGl0bGU+7Iqk7ZSE66eBIOu2gO2KuCDsm7nshJzruYTsiqQ8L3RpdGxlPgogICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTgiLz4KPC9oZWFkPgo8Ym9keT4K</text>
+        <text encoding="base64">PC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9odG1sPg==</text>
+        <text encoding="base64">PCFET0NUWVBFIEhUTUw+CjxodG1sIGxhbmc9ImtyIj4KPGhlYWQ+CiAgICA8dGl0bGU+7Iqk7ZSE66eBIOu2gO2KuCDsm7nshJzruYTsiqQ8L3RpdGxlPgogICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTgiLz4KPC9oZWFkPgo8Ym9keT4K</text>
       </register>
       <register name="9" type="2">
-        <text>Record local time by JPA auditing</text>
+        <text encoding="base64">PC9odG1sPg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
