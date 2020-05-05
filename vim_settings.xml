@@ -49,11 +49,11 @@
       <file name="$USER_HOME$/workspace/self-study/springboot-aws/index.mustache" timestamp="1584786902161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/etc/sls_java_es_dev_git_clone/sls_service/src/main/java/com/samsung/jio_toy/environment/ESParameters.java" timestamp="1588411617414">
-        <mark key="[" line="78" column="12" />
-        <mark key="]" line="78" column="12" />
-        <mark key="^" line="78" column="12" />
-        <mark key="." line="78" column="12" />
+      <file name="$USER_HOME$/workspace/etc/sls_java_es_dev_git_clone/sls_service/src/main/java/com/samsung/jio_toy/environment/ESParameters.java" timestamp="1588707942733">
+        <mark key="[" line="86" column="42" />
+        <mark key="]" line="86" column="42" />
+        <mark key="^" line="86" column="43" />
+        <mark key="." line="86" column="42" />
       </file>
       <file name="/" timestamp="1588055382026">
         <mark key="[" line="0" column="0" />
@@ -121,10 +121,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>setOffWaiting(carrierIndex, cellIndex);</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>setOffWaiting(carrierIndex, cellIndex);</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>processTTI</text>
