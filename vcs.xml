@@ -26,6 +26,10 @@
           <option name="url" value="https://github.ecodesamsung.com/Best-Reviewer-4-1/SHARED.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.ecodesamsung.com/Best-Reviewer-4-1/TDD_JUnitExample.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace/courses/best-reviewer" />
