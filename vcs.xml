@@ -54,6 +54,14 @@
           <option name="url" value="https://github.ecodesamsung.com/Best-Reviewer-4-1/TDD_TV_22" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.ecodesamsung.com/Best-Reviewer-4-1/RF_Exercise_Before.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.ecodesamsung.com/Best-Reviewer-4-1/RF_Exercise_After.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace/courses/best-reviewer" />
